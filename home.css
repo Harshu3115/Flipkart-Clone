@@ -1,0 +1,129 @@
+body {
+    background-color: rgba(128, 128, 128, 0.252);
+}
+.btn1{
+    background-color: transparent;
+    color: black;
+    border: none;
+
+}
+.btn1:hover{
+    background-color: transparent;
+    color: black;
+    cursor: pointer;
+}
+
+.navbag {
+    background-color: white;
+}
+
+.item-bar {
+    margin-left: 200px;
+    font-size: 18px;
+}
+
+.boxes {
+    background-color: white;
+}
+.boxes .col a{
+    color: black;
+    text-decoration: none;
+}
+
+.boximg {
+    width: 50px;
+    cursor: pointer;
+}
+
+.boximg:hover {
+    transform: scale(1.03);
+    transition: all 1s;
+}
+
+.text {
+    font-weight: 500;
+    display: block;
+    font-size: 12px;
+}
+
+.electronics img {
+    width: 150px;
+    cursor: pointer;
+}
+
+.electronics img:hover {
+    transform: scale(1.03);
+    transition: all 1s;
+}
+
+.best-electronics,
+.beauty {
+    background-color: white;
+
+}
+
+.wedding {
+    background-color: white;
+}
+
+.footer {
+    background-color: #172337;
+    color: #fff;
+    font-size: 13px;
+}
+
+.footer ul li {
+    font-weight: bold;
+    list-style-type: none;
+}
+
+.footer ul a li {
+    color: white;
+}
+
+ul p {
+    color: grey;
+}
+
+.add {
+    width: 190px;
+    font-size: 13px;
+    color: rgb(231, 223, 223);
+}
+
+.mail {
+    border-left: 1px solid rgba(128, 128, 128, 0.393);
+    padding-left: 20px;
+
+}
+
+.office {
+    width: 190px;
+    font-size: 11px;
+    color: rgb(231, 223, 223);
+}
+
+.us {
+    color: grey;
+}
+
+.registerd {
+    color: grey;
+}
+
+.icons i {
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+.line {
+    border-bottom: 1px solid rgba(128, 128, 128, 0.393);
+    padding-bottom: 25px;
+}
+.form-model{
+    font-family: "Poppins", sans-serif;
+}
+.mod{
+    box-shadow: 0 0 50px rgba(9, 0, 0, 0.222);
+    border: none;
+}

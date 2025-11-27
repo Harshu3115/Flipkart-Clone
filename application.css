@@ -1,0 +1,220 @@
+body{
+    background-color: #e4e7ed;
+}
+
+.btn1{
+    background-color: transparent;
+    color: black;
+    border: none;
+}
+.navbag{
+    background-color: #2874f0;
+}
+.item-bar {
+    margin-left: 100px;
+    font-size: 18px;
+}
+.item-bar   li a{
+    color: white;
+}
+.btn{
+    color: #2874f0;
+    position: relative;
+    right: 50px;
+    border: none;
+}
+.log{
+    color: white;
+}
+.log:hover{
+    background-color:transparent;
+}
+.list1{
+    background-color: white;
+}
+.list2{
+    list-style-type: none;
+}
+ul a li{
+    margin-left: 30px;
+    color: black;
+    font-weight: 500;
+} 
+ul li a{
+    color: black;
+    text-decoration: none;
+    margin-right: 10px;
+}
+ul a li:hover{
+    color: #0163ff;
+}
+.list2 a:hover{
+    text-decoration: none;
+}
+.drop{
+    background-color: transparent;
+    border: none;
+}
+.drop:hover{
+    background-color: transparent;
+}
+.dropdown a{
+    color: black;
+}
+.tv{
+    font-size: 18px;
+}
+.star-brands{
+    background-color: white;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.392);
+}
+.sectext{
+    color: grey;
+    font-weight: 300;
+}
+.smarttv h3{
+    font-weight: bold;
+    font-size: 20px;
+}
+.smarttv{
+    background-color: white;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.392);
+}
+.tvsection{
+    border-bottom: 1px solid rgba(128, 128, 128, 0.392);
+}
+.view{
+    background: #2874f0;
+    color: #fff;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+    border-radius: 2px;
+    border: none;
+    position: relative;
+    bottom: 29px;
+    font-size: 13px;
+    font-weight: 500;
+}
+.card-text {
+    font-size: 14px;
+    text-align: center;
+}
+.num{
+    font-size: 14px;
+    font-weight: bold;
+    color: grey;
+}
+.price{
+    
+    margin-top: 5px;
+    margin-right: 18px;
+}
+.tv4k{
+    background-color: #fff;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.392);
+}
+.tv4k img:hover{
+    transform: scale(1.03);
+    transition: all 1s;
+}
+.icon i{
+    color: rgba(128, 128, 128, 0.636);
+}
+.icon i:hover{
+    color: red;
+}
+.card{
+    border: none;
+}
+.card-text:hover{
+    color: #2874f0;
+}
+.reduced{
+    font-size: 13px;
+    color: grey;
+    text-decoration: line-through;
+    right: 16px;
+    position: relative;
+}
+.off{
+    color: green;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.washing img{
+    width: 80px;
+}
+.washing img:hover{
+    transform: scale(1.03);
+    transition: all 1s;
+}
+.washing .card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card .icon{
+    margin-left: 110px;
+}
+
+.footer {
+    background-color: #172337;
+    color: #fff;
+    font-size: 13px;
+}
+
+.footer ul li {
+    font-weight: bold;
+    list-style-type: none;
+}
+
+.footer ul a li {
+    color: white;
+}
+
+ul p {
+    color: grey;
+}
+
+.add {
+    width: 190px;
+    font-size: 13px;
+    color: rgb(231, 223, 223);
+}
+
+.mail {
+    border-left: 1px solid rgba(128, 128, 128, 0.393);
+    padding-left: 20px;
+
+}
+
+.office {
+    width: 190px;
+    font-size: 11px;
+    color: rgb(231, 223, 223);
+}
+
+.us {
+    color: grey;
+}
+
+.registerd {
+    color: grey;
+}
+
+.icons i {
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+.line {
+    border-bottom: 1px solid rgba(128, 128, 128, 0.393);
+    padding-bottom: 25px;
+}
+.form-model{
+    font-family: "Poppins", sans-serif;
+}
+.mod{
+    box-shadow: 0 0 50px rgba(9, 0, 0, 0.222);
+    border: none;
+}
